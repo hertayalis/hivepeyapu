@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://hivepeyapu.vercel.app/sitemap.xml
